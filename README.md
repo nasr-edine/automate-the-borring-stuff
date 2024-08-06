@@ -4,19 +4,18 @@ This repository contains my solutions to the exercises and practice questions fr
 
 ## Repository Structure
 
-automate-the-boring-stuff/
-│
+```automate-the-boring-stuff/
 ├── Chapter_1/
-│ ├── question1.py
-│ ├── question2.py
-│ └── ...
-│
+│   ├── question1.py
+│   ├── question2.py
+│   └── ...  # More question files for Chapter 1
 ├── Chapter_2/
-│ ├── question1.py
-│ ├── question2.py
-│ └── ...
-│
+│   ├── question1.py
+│   ├── question2.py
+│   └── ...  # More question files for Chapter 2
 └── README.md
+```
+
 ## Getting Started
 
 1. Clone the repository:
