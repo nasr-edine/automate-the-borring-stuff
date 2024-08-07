@@ -1,4 +1,4 @@
-### Calling a Function from an Imported Module
+## Calling a Function from an Imported Module
 
 **Question 12**: If you had a function named `bacon()` in a module named `spam`, how would you call it after importing `spam`?
 
