@@ -2,6 +2,10 @@
 
 This repository contains my solutions to the exercises and practice questions from "Automate the Boring Stuff with Python" by Al Sweigart.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nasr-edine/automate-the-borring-stuff/main/automate_the_boring_stuff_cover..jfif" width="300" alt="Automate the Boring Stuff with Python Cover">
+</p>
+
 ## Repository Structure
 
 ```automate-the-boring-stuff/
