@@ -13,3 +13,12 @@ The statement `import areallyourpetsnamederic` attempts to import a module named
 
 ```python
 import areallyourpetsnamederic
+```
+
+If the module exists: You can then use its functions, classes, or variables as specified by the module.
+
+If the module does not exist: You will receive an error, such as `ModuleNotFoundError` or `ImportError`.
+
+### Summary
+
+The `import areallyourpetsnamederic` statement tries to load the module named `areallyourpetsnamederic`. If this module does not exist, an error will be raised. Make sure the module name is correct and that it is installed in your Python environment.
