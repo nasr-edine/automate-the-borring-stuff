@@ -7,10 +7,14 @@ def collatz(number):
         result = number * 3 + 1
     return result
 
-print('Enter number: ')
-number = int(input())
+# Get user input with error handling
+try:
+    number = int(input('Enter a number: '))
+except ValueError:
+    print('You must enter an integer.')
+    number = 1  # Defaulting to 1 to end the program immediately
 
-# Continue the sequence until number reaches 1
+# Continue the sequence until the number reaches 1
 while number > 1:
     number = collatz(number)
     print(number)
